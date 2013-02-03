@@ -24,6 +24,6 @@ IfNotExist, .\.minecraft\Minecraft.exe
 
 Run, %comspec% /c "set APPDATA=%A_WorkingDir%&& start /b javaw -cp .minecraft\Minecraft.exe net.minecraft.LauncherFrame"
 ```
-0. It makes a .minecraft\ folder in the its current folder if there isn't one.
-0. It downloads the Minecraft launcher if it isn't downloaded.
-0. It starts Minecraft using the .minecraft folder in the current folder instead of C:\Users\{Username}\AppData\Roaming\.
+* It makes a .minecraft\ folder in the its current folder if there isn't one.
+* It downloads the Minecraft launcher if it isn't downloaded.
+* It starts Minecraft using the .minecraft folder in the current folder instead of C:\Users\{Username}\AppData\Roaming\.
