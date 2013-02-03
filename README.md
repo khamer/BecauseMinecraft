@@ -1,7 +1,7 @@
 BecauseMinecraft
 ================
 
-BecauseMinecraft is a dirt simple, GUI-less Minecraft launcher for windows only. This is equivalent to most of the "Minecraft.bat" batch files, except its a little nicer than a .bat.
+BecauseMinecraft is a dirt simple, GUI-less Minecraft launcher for windows only. It is written in [AutoHotKey](http://www.autohotkey.com/). This is equivalent to most of the "Minecraft.bat" batch files, except its a little nicer than a .bat.
 
 Download
 --------
