@@ -1,10 +1,16 @@
 BecauseMinecraft
-===============
+================
 
-BecauseMinecraft is a dirt simple Minecraft launcher for windows only. This is equivalent to most of the "Minecraft.bat" batch files, except its a little nicer than a .bat.
+BecauseMinecraft is a dirt simple, GUI-less Minecraft launcher for windows only. This is equivalent to most of the "Minecraft.bat" batch files, except its a little nicer than a .bat.
+
+Download
+--------
+You can download it **[here](https://github.com/khamer/BecauseMinecraft/blob/master/BecauseMinecraft.exe?raw=true)**.
+
+You can download the [source from GitHub](https://github.com/khamer/BecauseMinecraft).
 
 Instructions
------------------
+------------
 
 0. Make a folder, anywhere on your system. For example, One called `Custom Minecraft` on your desktop.
 0. Copy **BecauseMinecraft.exe** into that folder.
